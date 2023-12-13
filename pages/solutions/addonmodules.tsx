@@ -268,8 +268,7 @@ const addonmodules = () => {
                                   width="83%"
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                                
                                   scope="row"
                                 >
                                   Garment Industry Module
