@@ -281,8 +281,7 @@ const corpmanangement = () => {
                                 width="83%"
                                 height={25}
                                 align="left"
-                                valign="middle"
-                                bgcolor="#FFFFFF"
+                            
                                 scope="row"
                               >
                                 Corporate Management{' '}
@@ -293,8 +292,7 @@ const corpmanangement = () => {
                               <td
                                 height={25}
                                 align="left"
-                                valign="middle"
-                                bgcolor="#FFFFFF"
+                         
                                 scope="row"
                               >
                                 Management Consultancy Services
@@ -305,8 +303,7 @@ const corpmanangement = () => {
                               <td
                                 height={25}
                                 align="left"
-                                valign="middle"
-                                bgcolor="#FFFFFF"
+                            
                                 scope="row"
                               >
                                 {' '}
@@ -318,8 +315,7 @@ const corpmanangement = () => {
                               <td
                                 height={25}
                                 align="left"
-                                valign="middle"
-                                bgcolor="#FFFFFF"
+                       
                                 scope="row"
                               >
                                 Our Franchise Services
@@ -330,8 +326,7 @@ const corpmanangement = () => {
                               <td
                                 height={25}
                                 align="left"
-                                valign="middle"
-                                bgcolor="#FFFFFF"
+                          
                                 scope="row"
                               >
                                 {' '}

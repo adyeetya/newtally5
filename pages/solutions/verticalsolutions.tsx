@@ -305,8 +305,7 @@ const verticalsolutions = () => {
                                 <td
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                        
                                   scope="row"
                                 >
                                   Tally ERP - 9 Platinum Module
@@ -335,8 +334,7 @@ const verticalsolutions = () => {
                                   width="83%"
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                           
                                   scope="row"
                                 >
                                   Jewellery Industry
@@ -366,8 +364,7 @@ const verticalsolutions = () => {
                                 <td
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                      
                                   scope="row"
                                 >
                                   Manufacturing Industry
@@ -395,8 +392,7 @@ const verticalsolutions = () => {
                                 <td
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                         
                                   scope="row"
                                 >
                                   Electronic Showroom Management
@@ -424,8 +420,7 @@ const verticalsolutions = () => {
                                 <td
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                              
                                   scope="row"
                                 >
                                   Hotel &amp; Restaurant

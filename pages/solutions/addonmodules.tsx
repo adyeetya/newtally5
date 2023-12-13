@@ -297,8 +297,7 @@ const addonmodules = () => {
                                 <td
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                               
                                   scope="row"
                                 >
                                   Vehicle Sales Module
@@ -326,8 +325,7 @@ const addonmodules = () => {
                                 <td
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                               
                                   scope="row"
                                 >
                                   Party Wise Outstanding Module{' '}
@@ -524,8 +522,8 @@ const addonmodules = () => {
                                 <td
                                   height={25}
                                   align="left"
-                                  valign="middle"
-                                  bgcolor="#FFFFFF"
+                                
+                                
                                   scope="row"
                                 >
                                   1 Click Instrument Detail Module{' '}
