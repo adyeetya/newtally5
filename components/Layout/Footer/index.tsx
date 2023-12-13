@@ -2,7 +2,7 @@ import { FC } from 'react'
 import { Link } from '@components/Utils/Link'
 import { FiHeart } from 'react-icons/fi'
 import { CustomImage } from '@components/Utils/CustomImage'
-import Icon from '@assets/icon.svg'
+
 import { CONFIG } from '@libs/config'
 import { PROJECTS } from '@libs/config/projects'
 import FooterForm from '@components/FooterForm'
